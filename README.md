@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
   
-- 🔭 I’m currently working on Smart Contracts and Cross Chain Bridges 
-- 🌱 I’m currently learning Rust and Blockchain 
+- 🔭 I’m currently focusing on scripting
+- 🌱 I’m currently learning distributed systems
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Anything
 - 📫 How to reach me: Discord: madaraloveshashirama#7772
