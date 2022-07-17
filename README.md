@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
   
-- 🔭 I’m currently focusing on scripting
 - 🌱 I’m currently learning distributed systems
 - 👯 I’m looking to collaborate
 - 💬 Ask me about Anything
