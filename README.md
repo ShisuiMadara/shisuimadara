@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
   
 - 🌱 I’m currently learning distributed systems
-- 👯 I’m looking to collaborate
+- 👯 I’m looking to collaborate.
 - 💬 Ask me about Anything
 - 📫 How to reach me: Discord: madaraloveshashirama#7772
 - ⚡ Fun fact: I love red pandas 
