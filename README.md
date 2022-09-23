@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Lost commit streak or irregular commits ? ==> examinations :X
+Irregular commits ? ==> examinations :X
   
 - 🌱 I’m currently learning distributed systems
 - 👯 I’m looking to collaborate.
