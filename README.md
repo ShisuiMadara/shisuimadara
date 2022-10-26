@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning distributed systems
 
 - 👯 I’m looking to collaborate on **Rust or Javascript Based Project**
 
