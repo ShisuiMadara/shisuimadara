@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Rust or Javascript Based Project**
 
-- 📫 How to reach me **adyityasingh@gmail.com**
+- 📫 How to reach me **adyityasingh@gmail.com** 
 
 - ⚡ Fun fact **I love Red Pandas.**
 
