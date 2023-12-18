@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 - 🌱 I’m currently learning distributed systems
 
-- 👯 I’m looking to collaborate on **Rust or Go Based Project**
+- 👯 I’m looking to collaborate on **Rust or Go Based Project.**
 
 - 📫 How to reach me **adyityasingh@gmail.com** 
 
