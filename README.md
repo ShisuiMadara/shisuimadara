@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-- 🌱 I’m currently learning distributed systems
+- 🌱 I’m currently thinking about what to write in my GitHub profile
 
 - 👯 I’m looking to collaborate on **Rust or Go Based Project.**
 
 - 📫 How to reach me **adyityasingh@gmail.com** 
 
-- ⚡ Fun fact **I love Red Pandas**
+- ⚡ Fun fact **I love to hard rock while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
